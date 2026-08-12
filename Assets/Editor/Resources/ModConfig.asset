@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: SquarePackedCenturion
+  title: Centurion According to Mathematically Efficient Square Packing
+  description: "s\xB9\xB2 \u2212 52s\xB9\xB9 + 1168s\xB9\u2070 \u2212 14808s\u2079
+    + 116250s\u2078 \u2212 584196s\u2077 + 1885642s\u2076 \u2212 3878332s\u2075 +
+    5185145s\u2074 \u2212 4669592s\xB3 \u2212 1070690s\xB2 + 14600744s \u2212 1119939
+    = 0\n\nFound by Thomas Schadt in January 2026, using a simulated annealing program
+    he wrote, starting from randomness.\r\nRefound by David Ellsworth in January 2026,
+    using his modified version #2 of Thomas Schadt's simulated annealing program,
+    starting from randomness(statistics gathered).\r\nOptimized by David Ellsworth
+    in February 2026.\n\nMade by Quinn Wuest"
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 5336230d6f5e7d344bd6e03765bbcf40, type: 3}

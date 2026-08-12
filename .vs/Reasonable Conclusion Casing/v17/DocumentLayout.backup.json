@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Quinn\\Desktop\\KTaNE Mods\\Other Things\\Reasonable Conclusion Casing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\quinn\\desktop\\ktane mods\\other things\\reasonable conclusion casing\\assets\\scripts\\bombcasinggen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\bombcasinggen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADC632C-6B12-EC38-5B6D-9731F35479EB}|Assembly-CSharp.csproj|c:\\users\\quinn\\desktop\\ktane mods\\other things\\reasonable conclusion casing\\assets\\scripts\\squarepacking51gen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADC632C-6B12-EC38-5B6D-9731F35479EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\squarepacking51gen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SquarePacking51Gen.cs",
+              "DocumentMoniker": "C:\\Users\\Quinn\\Desktop\\KTaNE Mods\\Other Things\\Reasonable Conclusion Casing\\Assets\\Scripts\\SquarePacking51Gen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SquarePacking51Gen.cs",
+              "ToolTip": "C:\\Users\\Quinn\\Desktop\\KTaNE Mods\\Other Things\\Reasonable Conclusion Casing\\Assets\\Scripts\\SquarePacking51Gen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SquarePacking51Gen.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-12T12:06:21.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BombCasingGen.cs",
+              "DocumentMoniker": "C:\\Users\\Quinn\\Desktop\\KTaNE Mods\\Other Things\\Reasonable Conclusion Casing\\Assets\\Scripts\\BombCasingGen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BombCasingGen.cs",
+              "ToolTip": "C:\\Users\\Quinn\\Desktop\\KTaNE Mods\\Other Things\\Reasonable Conclusion Casing\\Assets\\Scripts\\BombCasingGen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BombCasingGen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T22:17:19.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
